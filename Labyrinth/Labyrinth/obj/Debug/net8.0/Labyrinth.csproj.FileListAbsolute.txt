@@ -1,0 +1,14 @@
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\bin\Debug\net8.0\Labyrinth.exe
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\bin\Debug\net8.0\Labyrinth.deps.json
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\bin\Debug\net8.0\Labyrinth.runtimeconfig.json
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\bin\Debug\net8.0\Labyrinth.dll
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\bin\Debug\net8.0\Labyrinth.pdb
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\Labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\Labyrinth.AssemblyInfoInputs.cache
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\Labyrinth.AssemblyInfo.cs
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\Labyrinth.csproj.CoreCompileInputs.cache
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\Labyrinth.dll
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\refint\Labyrinth.dll
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\Labyrinth.pdb
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\Labyrinth.genruntimeconfig.cache
+C:\Users\MrGre\Desktop\Labyrinth\Labyrinth\obj\Debug\net8.0\ref\Labyrinth.dll
